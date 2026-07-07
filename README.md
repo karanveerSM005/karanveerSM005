@@ -34,6 +34,9 @@ I enjoy investigating security issues, understanding how systems and application
 * ### [CookedLocal](https://github.com/karanveerSM005/cookedlocal)
   Full stack PHP and MySQL local-food marketplace web application. As team leader and primary developer, I developed the complete backend logic, designed and implemented the relational database, and programmed most of the   user interface.
 
+* ### [Cloud Rental Service API](https://github.com/karanveerSM005/cloud-rental-service-api)
+  Java REST API using Azure Cosmos DB and RabbitMQ for rental item search and request management. Includes API key validation, input validation, structured JSON error handling, environment-based credentials, event           publishing and basic rate limiting.
+
 ##  Technical Skills
 
 ### Cyber Security
