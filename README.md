@@ -43,6 +43,8 @@ I enjoy investigating security issues, understanding how systems and application
 * ### [Web Vulnerability Scanner](https://github.com/karanveerSM005/web-vulnerability-scanner)
   Python based web vulnerability scanner. Uses asynchronous crawling, modular detection and structured HTML reporting to identify selected web vulnerabilities in authorised   environments, including SQL injection,           reflected XSS, CSRF, open redirect, path traversal, command injection and missing security headers.
 
+* ### [Security in Practice Network Defence Lab](https://github.com/karanveerSM005/security-in-practice-network-defence-lab)
+  Authorised university cyber security lab using Kali Linux, DVWA and an isolated host only network. Performed vulnerability assessment with Nmap, Nikto and OpenVAS, evaluated common web application weaknesses,              implemented Snort IDPS monitoring, and proposed risk driven hardening controls.
 
 ##  Technical Skills
 
