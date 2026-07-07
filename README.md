@@ -17,6 +17,10 @@ Through university projects, practical labs and security assessments, I have dev
 I enjoy investigating security issues, understanding how systems and applications can be secured, and building practical technical solutions. I am currently seeking graduate or junior opportunities across cyber security, security engineering, application security, cloud security, vulnerability management, incident response and security operations.
 
 ---
+## 📌 Featured Projects
+
+### [Restaurant Booking System](https://github.com/karanveerSM005/restaurant-booking-system.git)
+Python command line restaurant booking system with login, booking management, validation and file handling.
 
 ##  Technical Skills
 
