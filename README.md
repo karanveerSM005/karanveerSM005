@@ -22,6 +22,9 @@ I enjoy investigating security issues, understanding how systems and application
 * ### [Restaurant Booking System](https://github.com/karanveerSM005/restaurant-booking-system.git)
   Python command line restaurant booking system with login, booking management, validation and file handling.
 
+* ### [PCAP Network Analysis Tool](https://github.com/karanveerSM005/pcap-network-analysis-tool)
+  Python coursework project for analysing authorised PCAP files and extracting packet metadata, IP and MAC addresses, hostnames and selected HTTP artefacts.
+
 ##  Technical Skills
 
 ### Cyber Security
