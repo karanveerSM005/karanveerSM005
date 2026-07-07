@@ -37,6 +37,9 @@ I enjoy investigating security issues, understanding how systems and application
 * ### [Cloud Rental Service API](https://github.com/karanveerSM005/cloud-rental-service-api)
   Java REST API using Azure Cosmos DB and RabbitMQ for rental item search and request management. Includes API key validation, input validation, structured JSON error handling, environment-based credentials, event           publishing and basic rate limiting.
 
+* ### [Digital Forensics Case Study](https://github.com/karanveerSM005/digital-forensics-case-study)
+  University mobile device forensic investigation using Magnet Axiom. Covered forensic image examination, communications and browser artefacts, application activity, timeline analysis, keyword searching, steganography       related artefacts and evidence based reporting.
+
 ##  Technical Skills
 
 ### Cyber Security
