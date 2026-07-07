@@ -39,6 +39,9 @@ I enjoy investigating security issues, understanding how systems and application
 
 * ### [Digital Forensics Case Study](https://github.com/karanveerSM005/digital-forensics-case-study)
   University mobile device forensic investigation using Magnet Axiom. Covered forensic image examination, communications and browser artefacts, application activity, timeline analysis, keyword searching, steganography       related artefacts and evidence based reporting.
+* ### [Web Vulnerability Scanner](https://github.com/karanveerSM005/web-vulnerability-scanner)
+  Python based web vulnerability scanner. Uses asynchronous crawling, modular detection and structured HTML reporting to identify selected web vulnerabilities in authorised   environments, including SQL injection,           reflected XSS, CSRF, open redirect, path traversal, command injection and missing security headers.
+
 
 ##  Technical Skills
 
