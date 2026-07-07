@@ -28,6 +28,9 @@ I enjoy investigating security issues, understanding how systems and application
 * ### [Round Robin Load Balancer](https://github.com/karanveerSM005/round-robin-load-balancer)
   Java distributed systems project implementing UDP based round robin load balancing with client job submission, worker-node registration, heartbeat monitoring, job queues and completion logging.
 
+* ### [WannaCry NHS ISMS Case Study](https://github.com/karanveerSM005/wannacry-nhs-isms-case-study)
+  University ISMS and cyber risk case study based on the WannaCry ransomware incident, covering healthcare asset management, threat analysis, risk assessment, security controls, patch management, backup strategy and         incident-response recommendations.
+
 ##  Technical Skills
 
 ### Cyber Security
