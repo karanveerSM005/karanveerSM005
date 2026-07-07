@@ -19,8 +19,8 @@ I enjoy investigating security issues, understanding how systems and application
 ---
 ## 📌 Featured Projects
 
-### [Restaurant Booking System](https://github.com/karanveerSM005/restaurant-booking-system.git)
-Python command line restaurant booking system with login, booking management, validation and file handling.
+* ### [Restaurant Booking System](https://github.com/karanveerSM005/restaurant-booking-system.git)
+  Python command line restaurant booking system with login, booking management, validation and file handling.
 
 ##  Technical Skills
 
