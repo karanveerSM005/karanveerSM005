@@ -25,6 +25,9 @@ I enjoy investigating security issues, understanding how systems and application
 * ### [PCAP Network Analysis Tool](https://github.com/karanveerSM005/pcap-network-analysis-tool)
   Python coursework project for analysing authorised PCAP files and extracting packet metadata, IP and MAC addresses, hostnames and selected HTTP artefacts.
 
+* ### [Round Robin Load Balancer](https://github.com/karanveerSM005/round-robin-load-balancer)
+  Java distributed systems project implementing UDP based round robin load balancing with client job submission, worker-node registration, heartbeat monitoring, job queues and completion logging.
+
 ##  Technical Skills
 
 ### Cyber Security
