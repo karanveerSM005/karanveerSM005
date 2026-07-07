@@ -1,7 +1,9 @@
 # Hi there, I'm Karanveer Singh 👋
 
 🎓 Cyber Security graduate from Nottingham Trent University with **First Class Honours**.
+
 🛡️ Interested in security operations, application security, vulnerability management, cloud security, incident response, digital forensics, network security and secure software development.
+
 📍 Based in Derby, United Kingdom.
 
 ---
